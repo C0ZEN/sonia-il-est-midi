@@ -86,7 +86,7 @@
     "eslint-config-recommended": "4.0.0",
     "fs-extra": "9.0.0",
     "husky": "4.2.3",
-    "semantic-release": "17.0.4",
+    "semantic-release": "17.2.3",
     "ts-node-dev": "1.0.0-pre.44",
     "tsconfig-paths": "3.9.0",
     "typescript": "3.8.3"
