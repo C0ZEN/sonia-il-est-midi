@@ -61,7 +61,7 @@
     "semver": "npx semantic-release"
   },
   "dependencies": {
-    "discord.js": "12.0.2",
+    "discord.js": "12.5.3",
     "express": "4.17.1",
     "lodash": "4.17.15",
     "moment": "2.24.0"
